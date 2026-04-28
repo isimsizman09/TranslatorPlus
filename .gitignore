@@ -1,0 +1,21 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Local BetterDiscord data/config exports
+*.config.json
+*.data.json
+
+# Node/build artifacts if the project is bundled later
+node_modules/
+dist/
+build/
+.tools/
